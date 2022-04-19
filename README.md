@@ -2,7 +2,7 @@
 
 #### I'm a student developer focusing on full-stack web development.
 
-#### Currently, I'm studying at [Business College Helsiniki](https://en.bc.fi/).
+#### Currently, I'm studying at [Business College Helsinki](https://en.bc.fi/).
 
 <!--
 **kevinrwinter/kevinrwinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
