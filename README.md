@@ -1,8 +1,8 @@
-### Kevin Winter
+## Kevin Winter
 
-#### I'm a student developer focusing on full-stack web development.
+### Full Stack Developer.
 
-#### Currently, I'm studying at [Business College Helsinki](https://en.bc.fi/).
+#### Currently, I'm working as a Junior Software Developer at [Guild of Ships](https://guildofships.com/).
 
 <!--
 **kevinrwinter/kevinrwinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
